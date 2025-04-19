@@ -35,6 +35,8 @@ train_CNN.ipynb CNN的训练文件
 
 test仍然使用test_model.py
 
+test_of_myCNN是催卷积层的测试
+
 best_model_1:初始模型784-600-10 no weight_decay no schelduer  准确率0.9496
 
 best_model_2:784-512-512-10以及exponentialLR 准确率：0.9424
