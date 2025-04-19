@@ -37,7 +37,7 @@ test仍然使用test_model.py
 
 best_model_1:初始模型784-600-10 no weight_decay no schelduer  准确率0.9496
 
-best_model_2:784-512-512-10（最后一行）以及exponentialLR 准确率：0.9424
+best_model_2:784-512-512-10以及exponentialLR 准确率：0.9424
 
 best_model_CNN1---best_model_CNNwithpool2  这些是一些中间模型
 
