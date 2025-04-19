@@ -1,4 +1,4 @@
-# -PJ1-CNN
+# PJ1-CNNwithnumpy
 ### Start Up
 
 First look into the `dataset_explore.ipynb` and get familiar with the data.
